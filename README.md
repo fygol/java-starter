@@ -15,3 +15,6 @@ Create logger in class:
 ```java
 private static final Logger log = LoggerFactory.getLogger(ClassName.class);
 ```
+
+
+Test pull request template
